@@ -1,0 +1,60 @@
+{
+  "retrieved_utc": "2026-10-13T16:00:46.164630+00:00",
+  "sources": [
+    {
+      "repository": "brandondube/prysm",
+      "private": false,
+      "archived": false,
+      "pushed_at": "2026-07-26T02:06:40Z",
+      "commit": "5008f47803af6ff69eed474fca049456076e4a7d",
+      "commit_date": "2026-07-26T02:06:10Z",
+      "commit_subject": "geometry,segmented: use signed distance functions to draw segment apertures and composite",
+      "license_url": "https://github.com/brandondube/prysm/blob/5008f47803af6ff69eed474fca049456076e4a7d/LICENSE.md",
+      "local_license": "licenses/brandondube-prysm-current-LICENSE.txt"
+    },
+    {
+      "repository": "numpy/numpy",
+      "private": false,
+      "archived": false,
+      "pushed_at": "2026-10-13T12:22:58Z",
+      "commit": "adaff8f6594df6bceaecd43c64b71e8f3e1071c0",
+      "commit_date": "2026-10-13T12:22:57Z",
+      "commit_subject": "DOC: Fix filter and library path in ctypes example of Python as Glue (User Guide) (#32999)",
+      "license_url": "https://github.com/numpy/numpy/blob/adaff8f6594df6bceaecd43c64b71e8f3e1071c0/LICENSE.txt",
+      "local_license": "licenses/numpy-numpy-current-LICENSE.txt"
+    },
+    {
+      "repository": "scipy/scipy",
+      "private": false,
+      "archived": false,
+      "pushed_at": "2026-10-13T03:25:16Z",
+      "commit": "7974bba4cff63772ea2fa9953c4defd87f8460e8",
+      "commit_date": "2026-10-13T03:25:16Z",
+      "commit_subject": "MAINT: special: migrate `sici` and `shichi` to `_special_ufuncs` (#26367)",
+      "license_url": "https://github.com/scipy/scipy/blob/7974bba4cff63772ea2fa9953c4defd87f8460e8/LICENSE.txt",
+      "local_license": "licenses/scipy-scipy-current-LICENSE.txt"
+    },
+    {
+      "repository": "matplotlib/matplotlib",
+      "private": false,
+      "archived": false,
+      "pushed_at": "2026-10-13T12:03:53Z",
+      "commit": "1f82b49d1c8f56913c54959bb4ebc5e33b62caa1",
+      "commit_date": "2026-10-13T12:03:53Z",
+      "commit_subject": "Merge pull request #32472 from maaz7409/mnt-check-versions",
+      "license_url": "https://github.com/matplotlib/matplotlib/blob/1f82b49d1c8f56913c54959bb4ebc5e33b62caa1/LICENSE/LICENSE",
+      "local_license": "licenses/matplotlib-matplotlib-current-LICENSE.txt"
+    },
+    {
+      "repository": "ahmetalpkilic/estimated-repeat-correlation-learning-lab",
+      "private": false,
+      "archived": false,
+      "pushed_at": "2026-10-12T20:52:49Z",
+      "commit": "ae073b356abd9bca9b3df30c74b6ac681698d760",
+      "commit_date": "2026-10-12T20:52:47Z",
+      "commit_subject": "Add estimated repeat correlation and fixed-budget optical timing lab",
+      "license_url": "https://github.com/ahmetalpkilic/estimated-repeat-correlation-learning-lab/blob/ae073b356abd9bca9b3df30c74b6ac681698d760/LICENSE",
+      "local_license": "licenses/ahmetalpkilic-estimated-repeat-correlation-learning-lab-current-LICENSE.txt"
+    }
+  ]
+}
